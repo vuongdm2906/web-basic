@@ -13,8 +13,5 @@ public class WebAppApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(WebAppApplication.class, args);
 	}
-	@Bean
-	public ModelMapper modelMapper() {
-		return new ModelMapper();
-	}
+
 }

@@ -1,4 +1,4 @@
-package com.project.shopapp.configurations;
+package com.example.web_app.configurations;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;
